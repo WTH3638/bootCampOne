@@ -1,6 +1,37 @@
+
+
 aside
 {
 	float: right;
 	font-family: Arial, "MS Trebuchet", sans-serif; 
-	color: #680000 ;
+	color: #680000;
 }
+aside#leftfloat{
+	float: left;
+}
+aside#centerfloat{
+	float: center;
+}
+body
+ {
+ 	background-color: #585858 
+ }
+p, header, footer, ul, li 
+{
+	font-weight: bold;
+	font-size: 20px;
+}
+div
+{
+	background-color: white
+}
+section#sidebar
+{
+	float: left;
+}
+img
+{
+	margin: 0 50%;
+	padding: 10px 20px 30px 40px;
+}
+
